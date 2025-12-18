@@ -1,0 +1,8 @@
+{
+  "name": "elgooG Mirror",
+  "description": "A quirky, mirrored version of the world's most popular search engine, featuring gravity effects, underwater modes, and Gemini-powered 'reversed' intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
